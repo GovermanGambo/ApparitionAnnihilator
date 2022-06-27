@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 8f6c6252d7697154787665b2f9df7759
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4312366431063467818
+    second: Jumping_0
+  - first:
+      213: -4048530547193403679
+    second: Jumping_1
+  - first:
+      213: 2826979704478040783
+    second: Jumping_2
+  - first:
+      213: 5907000883226147584
+    second: Jumping_3
+  - first:
+      213: -6258145227301590787
+    second: Jumping_4
+  - first:
+      213: 722731012742800968
+    second: Jumping_5
+  - first:
+      213: 613896819931920705
+    second: Jumping_6
+  - first:
+      213: -9125459030462519034
+    second: Jumping_7
+  - first:
+      213: -4537684021541712226
+    second: Jumping_8
+  - first:
+      213: -5426529818256287668
+    second: Jumping_9
+  - first:
+      213: 3523181070407701730
+    second: Jumping_10
+  - first:
+      213: 7441969707996553395
+    second: Jumping_11
+  - first:
+      213: -7842026410939470968
+    second: Jumping_12
+  - first:
+      213: -3076105133756104524
+    second: Jumping_13
+  - first:
+      213: -8095691219627073597
+    second: Jumping_14
+  - first:
+      213: -8947196542071329362
+    second: Jumping_15
+  - first:
+      213: 235903109311795090
+    second: Jumping_16
+  - first:
+      213: -501487265859345171
+    second: Jumping_17
+  - first:
+      213: -574983533000285776
+    second: Jumping_18
+  - first:
+      213: -4286857686810158545
+    second: Jumping_19
+  - first:
+      213: 9186257873382923092
+    second: Jumping_20
+  - first:
+      213: 7271239994999118226
+    second: Jumping_21
+  - first:
+      213: 8925793108754288956
+    second: Jumping_22
+  - first:
+      213: 7302403691156918713
+    second: Jumping_23
+  - first:
+      213: -4500617037921750204
+    second: Jumping_24
+  - first:
+      213: 5863076690080885197
+    second: Jumping_25
+  - first:
+      213: -5191716977125086630
+    second: Jumping_26
+  - first:
+      213: 2446274476371748696
+    second: Jumping_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jumping_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8942f24956724c0800000000000000
+      internalID: -4312366431063467818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e62838daeab0d7c0800000000000000
+      internalID: -4048530547193403679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
