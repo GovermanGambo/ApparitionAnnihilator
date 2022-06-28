@@ -10,8 +10,11 @@ You are a lonely demon, longing for a real kind of connection. Navigate through 
 
 ## Controls
 A & D / Joystick(Gamepad) - Move left/right
+
 Space / A Button(Gamepad) - Jump
+
 Shift/ J /  Triggers(Gamepad)- Toggle force field
+
 R / Y (Gamepad) - Respawn
 
 ## Credits
