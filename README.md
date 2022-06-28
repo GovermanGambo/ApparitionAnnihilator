@@ -3,7 +3,7 @@
 A game made for the 2021 GMTK Game Jam. This was my team's ever first game jam and first game we have ever completed.
 
 ## Download
-Available on the game's itch.io page: https://goverman.itch.io/apparition-annahil
+Available on the [game's itch.io page](https://goverman.itch.io/apparition-annahil) or under Releases on this repository.
 
 ## Description
 You are a lonely demon, longing for a real kind of connection. Navigate through force fields and devour the castle's residents so that you all can become one big, happy and loving family.
