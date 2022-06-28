@@ -16,5 +16,7 @@ R / Y (Gamepad) - Respawn
 
 ## Credits
 Jiraci - Graphics, animations & level design
+
 TenLexi - Physics and mechanics programming & level design
+
 Goverman - Programming, music & level design
